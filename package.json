@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "cd AI CHATBOT && npm start",
+    "dev": "cd AI CHATBOT && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
